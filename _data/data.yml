@@ -84,14 +84,6 @@ education:
   order: 1
   title: Education
   items:
-    - institution: Jiangsu University of Science and Technology
-      link: '#'
-      date: 2019-07 - 2023-06
-      major: Software Engineering
-      degree: Bachelor
-      description: |
-        Main courses: C++, Java EE, data structure, computer network, computer composition principles, operating system,discrete mathematics, data mining, artificial intelligence, mobile terminal development, software engineering, Nosql database, etc.
-        
     - institution: ESIGELEC
       link: '#'
       date: 2023-07 - 2025-02
@@ -99,6 +91,14 @@ education:
       degree: Master
       description: |
         Main Courses: MicroPython, C/C++, Machine Learning, Embeded Linux, ROS, Micrcontroller, Project Management, Smart sensors, Virtual Insturmentation, Aitificial intelligence for Smart Systems, etc.
+        
+    - institution: Jiangsu University of Science and Technology
+      link: '#'
+      date: 2019-07 - 2023-06
+      major: Software Engineering
+      degree: Bachelor
+      description: |
+        Main courses: C++, Java EE, data structure, computer network, computer composition principles, operating system,discrete mathematics, data mining, artificial intelligence, mobile terminal development, software engineering, Nosql database, etc.
         
 # profile:
 #   show: true
