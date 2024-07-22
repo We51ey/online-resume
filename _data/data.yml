@@ -90,7 +90,7 @@ education:
       major: Software Engineering
       degree: Bachelor
       description: |
-        Main courses:: C++, Java EE, data structure, computer network, computer composition principles, operating system,discrete mathematics, data mining, artificial intelligence, mobile terminal development, software engineering, Nosql database, etc.
+        Main courses: C++, Java EE, data structure, computer network, computer composition principles, operating system,discrete mathematics, data mining, artificial intelligence, mobile terminal development, software engineering, Nosql database, etc.
         
     - institution: ESIGELEC
       link: '#'
@@ -98,7 +98,7 @@ education:
       major: Connected Embedded Intelligent Systems
       degree: Master
       description: |
-        Main Courses : MicroPython, C/C++, Machine Learning, Embeded Linux, ROS, Micrcontroller, Project Management, Smart sensors, Virtual Insturmentation, Aitificial intelligence for Smart Systems, etc.
+        Main Courses: MicroPython, C/C++, Machine Learning, Embeded Linux, ROS, Micrcontroller, Project Management, Smart sensors, Virtual Insturmentation, Aitificial intelligence for Smart Systems, etc.
         
 # profile:
 #   show: true
@@ -265,42 +265,65 @@ award:
   order: 8
   title: Awards
   items:
-    - name: Example Awared One
-      awarder: by Example
+    - name: Artificial intelligence track in the 15th Undergraduate Computer Design Competition
+      awarder: Institute of Chinese Collegiate Computing Competition
       date: 2022
       link: '#'
       description: |
-        It's my Example Awared One by Example.
-    - name: Example Awared Two
-      awarder: by Example
+        The first prize at Nation level
+        
+    - name: Artificial intelligence track in Jiangsu Province in the 15th Undergraduate Computer Design Competition
+      awarder: Institute of Jiangsu Province Collegiate Computing Competition
       date: 2022
       link:
       description: |
-        It's my Example Awared Two by Example.
+        The second prize of province level
+        
+    - name: The first division of the 16th Siemens Cup China Intelligent Challenge National Preliminary Competition in East China
+      awarder: Siemens 
+      date: 2022
+      link:
+      description: |
+        The Second Prize at Nation level
+        
+    - name: The 17th Bochuang Cup National Undergraduate Embedded Artificial Intelligence Design Competition
+      awarder: Chinese Institute of Electronics 
+      date: 2022
+      link:
+      description: |
+        The Special Prize at Nation level
+        
+    - name: The 18th May 1st Mathematical Modeling Competitio
+      awarder: China University of Mining
+      date: 2021
+      link:
+      description: |
+        The second prize at Nation level
+    - name: The 36th American International Undergraduate Mathematical Modeling Competition
+      awarder:  MCM/ICM
+      date: 2021
+      link:
+      description: |
+        S Prize at Global level
+    - name: The 10th Asia Pacific Undergraduate Mathematical Modeling Competition
+      awarder: The Second Prize at Global level
+      date: 2020
+      link:
+      description: |
+        The Second Prize at Global level
+    - name: Higher Education Cup National Undergraduate Mathematical Modeling Competition Jiangsu Province
+      awarder: China Society for Industrial and Applied Mathematics
+      date: 2022
+      link:
+      description: |
+        The Third Prize at Nation level
 
 patent:
   show: true
   order: 9
   title: Patents
-  description: |
-    The patent section in a resume is a dedicated section where you can showcase any patents that you have been granted or are in the process of obtaining. This section is particularly relevant for individuals who work in scientific or technical fields, as well as for individuals who have developed innovative products or technologies.
-
-    In this section, you should list the title of the patent, the name of the inventors, the patent number, and the date it was granted. If the patent is pending, you can indicate that it is "pending" or "in review." You may also want to provide a brief description of the technology or invention that the patent covers.
-
-    Including a patent section in your resume can help demonstrate your expertise and accomplishments in your field, and can help you stand out from other candidates. However, if you do not have any patents to list, it is not necessary to include this section in your resume.
-
-    Template for a pending patent:
-
-    + [Inventor Name]. [Pursued Year]. [Title]. [Patent Number], filed [Submitted Date]. Patent pending.
-
-    Template for an approved patent:
-
-    + [Inventor Name]. [Pursued Year]. [Title]. [Patent Number], filed [Submitted Date], [Received Date].
-
-    The following are some examples of patent formats.
-
-    + Foo Bar. 2022. Example patent name one. US 123456, filed Oct 3, 2022. Patent pending.
-    + Foo Bar. 2022. Example patent name two. US 654321, filed Oct 3, 2022, and issued Nov 15, 2022.
+  description:
+    + Wei Lai. Smart employment recruitment system for secondary colleges and universities. 2023SR0613663, issued Jun 09, 2023.
 
 # organization:
 #   show: true
