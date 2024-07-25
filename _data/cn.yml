@@ -320,7 +320,7 @@ award:
 patent:
   show: true
   order: 9
-  title: Patents
+  title: 专利
   description:
     + 魏来. 高校二级学院智慧就业招聘系统. 2023SR0613663, 发布日期 2023年6月9日.
 
@@ -338,7 +338,7 @@ patent:
 language:
   show: true
   order: 11
-  title: Languages
+  title: 语言
   items:
     - idiom: 中文
       level: 母语
@@ -367,7 +367,7 @@ language:
 evaluation:
   show: true
   order: 13
-  title: Self-evaluation
+  title: 自我评估
   description: |
     + 学习能力强，具备研究精神：擅长快速学习新知识和深入研究问题。
     + 对新技术充满好奇：对新兴技术有强烈的兴趣，愿意不断探索和了解。
