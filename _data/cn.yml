@@ -7,9 +7,9 @@ basic:
 
 contact:
   # meta
-  location: 法国, 鲁昂  # location
+  location: 法国, 巴黎  # location
   email: wl979159265@gmail.com    # email address
-  phone: +33 0761695001 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
+  phone: +86 15064007372 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
   website:                 # site URL without schema, like example.com, will automatically prepand "https://"
 
   gender:                  # gender or pronoun
@@ -19,7 +19,7 @@ contact:
   drivinglicense:          # driving licence
 
   # contact
-  wechat:                  # username
+  wechat:                  # username          | We51ey1108
   whatsapp:                # 8611122223333     | https://wa.me/8611122223333
   telegram:                # username          | https://t.me/username
   messenger:               # username          | https://m.me/username
@@ -86,7 +86,7 @@ education:
   items:
     - institution: ESIGELEC
       link: '#'
-      date: 2023-07 - 2025-02
+      date: 2023-07 - 2025-04
       major: 嵌入式人工智能
       degree: 硕士
       description: |
@@ -114,6 +114,19 @@ experience:
   order: 2
   title: 经历
   items:
+    - company: CAST（巴黎总部）
+      link: 'https://www.castsoftware.com/'
+      tags: 
+      date: 2024-10 - 2025-04
+      role: 全栈开发
+      location: 法国巴黎
+      description: |
+        + 开发并维护 Maven 插件（`imaging-cloud-analyzer-maven-plugin`），实现与 CAST Imaging 分析器的自动集成，优化软件质量分析流程，保证多个版本和系统的兼容性。
+        + 迁移 Jenkins 流水线任务至 GitLab CI/CD，提升 CI/CD 流程的自动化程度和稳定性。
+        + 负责后端开发任务，包括需求分析、功能实现及代码优化，涉及 Java、Springboot，微服务，AWS 等技术栈。
+        + 参与云端架构优化，将 EC2 存储迁移至 AWS S3，优化存储成本并提高性能，特别是大规模 JSON 文件的管理和删除策略。
+        + 在 Windows、Linux、Mac 和 Docker 环境下进行软件开发和测试，确保跨平台兼容性和稳定性。
+        + 参与 CAST-Profiler 新版本的开发与优化，用全新的文件扫描模式，提升代码分析能力和性能，参与分析结果中的alerts部分的开发和维护。
     - company: 江苏科技大学嵌入式硬件实验室
       link: '#'
       tags: 
@@ -121,19 +134,9 @@ experience:
       role: 助理
       location: 江苏
       description: |
-        +  协助教授在嵌入式设备上部署物体检测模型，并开发相关软件案例。
-        +  参与嵌入式设备的测试与故障排除。
-        +  对新进实验室成员进行设备使用规范培训。
-    - company: 江苏科技大学嵌入式硬件实验室
-      link: '#'
-      tags: 
-      date: 2021-05 - 2023-04
-      role: 助理
-      location: 江苏
-      description: |
-        +  协助教授在嵌入式设备上部署物体检测模型，并开发相关软件案例。
-        +  参与嵌入式设备的测试与故障排除。
-        +  对新进实验室成员进行设备使用规范培训。
+        + 协助教授在嵌入式设备上部署物体检测模型，并开发相关软件案例。
+        + 参与嵌入式设备的测试与故障排除。
+        + 对新进实验室成员进行设备使用规范培训。。
 project:
   show: true
   order: 3
@@ -144,7 +147,7 @@ project:
       tags:
       date: 2024-05 - 2024-07
       description: |
-        + 项目内容: 我使用 PyQt 开发了一个用户界面，通过移动设备采集语音数据样本，每段录音时长为 10 秒。录制的音频被转换为频谱图，并对部分数据进行了增强处理。随后，我采用局部二值模式（LBP）算法进行模式匹配，并应用多种评估方法对机器学习模型的性能进行了评估。此外，我还创建了一个基于 PyQt 的实时说话人识别界面，采用了“滑动窗口”技术。之后，我收集了更多样本，基于 MobileNet 构建了神经网络模型进行训练，最终实现了 92% 的准确率。
+        + 项目内容: 我使用 PyQt 开发了一个用户界面，通过移动设备采集语音数据样本，每段录音时长为 10 秒。录制的音频被转换为频谱图，并对部分数据进行了增强处理。随后，我采用局部二值模式（LBP）算法进行模式匹配，并应用多种评估方法对机器学习模型的性能进行了评估。此外，我还创建了一个基于 PyQt 的实时说话人识别界面，采用了“滑动窗口”。之后，我收集了更多样本，基于 MobileNet 构建了神经网络模型进行训练，最终实现了 92% 的准确率。
         
     - name: 无人机行人检测与跟踪
       link: 'https://github.com/We51ey/tello'
