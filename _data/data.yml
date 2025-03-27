@@ -114,6 +114,19 @@ experience:
   order: 2
   title: Experiences
   items:
+    - company: CAST (Paris Headquarters)  
+      link: 'https://www.castsoftware.com/'  
+      tags:   
+      date: 2024-10 - 2025-04  
+      role: Full-Stack Developer  
+      location: Paris, France  
+      description: |  
+        + Developed and maintained the Maven plugin (`imaging-cloud-analyzer-maven-plugin`), enabling automatic integration with CAST Imaging Analyzer to optimize software quality analysis while ensuring compatibility across multiple versions and systems.  
+        + Migrated Jenkins pipeline tasks to GitLab CI/CD, enhancing automation and stability in the CI/CD process.  
+        + Handled backend development tasks, including requirement analysis, feature implementation, and code optimization, utilizing technologies such as Java, Spring Boot, microservices, and AWS.  
+        + Contributed to cloud architecture optimization by migrating EC2 storage to AWS S3, improving cost efficiency and performance, particularly in managing and deleting large-scale JSON files.  
+        + Developed and tested software across Windows, Linux, Mac, and Docker environments to ensure cross-platform compatibility and stability.  
+        + Participated in the development and enhancement of the new version of CAST-Profiler, introducing an advanced file scanning model to improve code analysis capabilities and performance, and contributed to the development and maintenance of the "alerts" section in the analysis results.  
     - company: Embedded System Lab in Jiangsu University of Science and Technology
       link: '#'
       tags: Part-time
