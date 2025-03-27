@@ -123,10 +123,10 @@ experience:
       description: |
         + 开发并维护 Maven 插件（`imaging-cloud-analyzer-maven-plugin`），实现与 CAST Imaging 分析器的自动集成，优化软件质量分析流程，保证多个版本和系统的兼容性。
         + 迁移 Jenkins 流水线任务至 GitLab CI/CD，提升 CI/CD 流程的自动化程度和稳定性。
-        + 负责后端开发任务，包括需求分析、功能实现及代码优化，涉及 Java、Springboot，微服务，AWS 等技术栈。
+        + 负责后端开发任务，维护并开发多个api的功能实现及代码优化，涉及 Java、Springboot，微服务，AWS 等技术栈。
         + 参与云端架构优化，将 EC2 存储迁移至 AWS S3，优化存储成本并提高性能，特别是大规模 JSON 文件的管理和删除策略。
         + 在 Windows、Linux、Mac 和 Docker 环境下进行软件开发和测试，确保跨平台兼容性和稳定性。
-        + 参与 CAST-Profiler 新版本的开发与优化，用全新的文件扫描模式，提升代码分析能力和性能，参与分析结果中的alerts部分的开发和维护。
+        + 参与 CAST-Profiler v2 版本的开发与优化，用全新的文件扫描模式，提升代码分析能力和性能，参与整个scanner的架构开发，参与分析结果中的alerts部分的开发和维护。
     - company: 江苏科技大学嵌入式硬件实验室
       link: '#'
       tags: 
