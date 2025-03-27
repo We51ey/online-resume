@@ -7,7 +7,7 @@ basic:
 
 contact:
   # meta
-  location: Rouen, France  # location
+  location: Paris, France  # location
   email: wl979159265@gmail.com    # email address
   phone: +33 0761695001 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
   website:                 # site URL without schema, like example.com, will automatically prepand "https://"
